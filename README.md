@@ -90,7 +90,8 @@ src/
 │   │   ├── repository/
 │   │   ├── model/
 │   │   ├── exception/
-│   │   └── mapper/        (onde pode estar a configuração do Dozer)
+│   │   └── mapper/
+│   │       └──ObjectMapper.java
 │   └── resources/
 │       └── application.yml
 └── test/
